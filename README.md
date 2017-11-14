@@ -1,0 +1,2 @@
+# checkingGames
+algo of trust
